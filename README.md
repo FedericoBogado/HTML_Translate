@@ -1,6 +1,6 @@
 # 🌎 HTML Translator 🌍
 
-It is a Translator code for translate HTML files using Python.
+It's a Translator for HTML files using Python.
 
 This code has been made for a problem solving evaluation for the company CodingAllStars.
 
@@ -8,7 +8,7 @@ This code has been made for a problem solving evaluation for the company CodingA
 
 This project is finished.
 
-## 🖥 Tecnologias utilizadas
+## 🖥 Used technology
 
 <p align="left">
    <a href="https://www.python.org/">
